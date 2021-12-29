@@ -4,7 +4,7 @@ from pytz import timezone
 import discord
 
 # Général
-bot_token = "OTI1NTY1NzQzNTA3MDYyNzk2.Ycu-RQ.SzvMHTPHWHwQD9Ul9BEZCl2G0SQ"  # Token du Bot Discord
+bot_token = "OTI1NTY1NzQzNTA3MDYyNzk2.Ycu-RQ.zsJYEheadjSfErxPRXEv4HPFQcA"  # Token du Bot Discord
 embed_color = discord.Color.from_rgb(47, 49, 54)  # Couleur des embeds
 timezone = "Europe/Brussels"  # Timezone des embeds
 
